@@ -28,7 +28,7 @@ MONGODB_URI="<YOUR-CONNECTION-STRING-HERE>"
 ```
 - Add the variable ```TOKEN_SECRET="1234567890"``` in your ```.env``` file.
 ```bash
-$ cd sms-microservice
+$ cd SMS_Microservice
 
 $ node server.js
 ```
