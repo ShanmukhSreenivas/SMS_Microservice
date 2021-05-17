@@ -59,7 +59,6 @@ This will create an onbound SMS.
 #### Default response
 This will be the default response for all other methods and configurations
 
-Status Code - 405 
+Status Code - 405
 
-## Validations
 Basic unit tests are written for all the existing functions using Mocha and Chai which can be viewed in the ```/test/sms.js``` file.
