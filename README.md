@@ -10,7 +10,6 @@ Tech stack used – MongoDB, Express, and Node.js.
 Following versions were used in the development of this demo:
 - Node.js 14.16.1.
 - Node Package Manager (npm) 7.12.1.
-- Editor used was Visual Studio Code 1.56.1.
 
 ## Instructions to setup locally
 ### Installing modules
