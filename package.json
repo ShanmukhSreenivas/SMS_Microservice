@@ -2,10 +2,10 @@
   "name": "sms-microservice",
   "version": "1.0.0",
   "description": "A simple API service that validates and accepts inbound and outbound messages.",
-  "main": "server.js",
+  "main": "app.js",
   "scripts": {
     "test": "mocha",
-    "start": "node server.js"
+    "start": "node app.js"
   },
   "dependencies": {
     "chai-http": "^4.3.0",
