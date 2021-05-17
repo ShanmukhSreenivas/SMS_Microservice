@@ -160,7 +160,7 @@ exports.Outbound = async (req, res) => {
 
 exports.DefaultResponse = async (req, res) => {
     res.status(405).json({
-        "message": "Method Not Allowed"
+        "message": "Please refer the SMS_Microservice api"
     })
 }
 
