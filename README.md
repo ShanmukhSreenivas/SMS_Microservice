@@ -22,7 +22,7 @@ $ npm install
 ```
 
 ### Running the servers
-- Setup a MongoDB Atlas cluster under free tier plan and create a ```.env``` file in ```sms-microservice``` folders under the following schema:
+- Setup a MongoDB Atlas cluster under free tier plan and create a ```.env``` file in ```SMS_Microservice``` folders under the following schema:
 ```
 MONGODB_URI="<YOUR-CONNECTION-STRING-HERE>"
 ```
