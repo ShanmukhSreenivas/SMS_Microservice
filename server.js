@@ -6,7 +6,7 @@ const express = require("express");
 
 const app = express();
 
-var routes = require('./api/routes'); //importing route
+var routes = require('./api/routes');
 
 const port = process.env.PORT || 3000;
 
